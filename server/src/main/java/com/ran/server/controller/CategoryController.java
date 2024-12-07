@@ -6,7 +6,6 @@ import com.ran.server.request.CategoryUpdateRequest;
 import com.ran.server.service.CategoryService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
-
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
@@ -16,7 +15,7 @@ import java.util.List;
 
 /**
  * @author Riyan Amanda
- * @linkedin <a href="https://linkedin.com/in/riyan-amanda">...</a>
+ * {@code @linkedin} <a href="https://linkedin.com/in/riyan-amanda">...</a>
  * @since 06/12/2024, Friday
  **/
 

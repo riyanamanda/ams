@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  * @author Riyan Amanda
- * @linkedin <a href="https://linkedin.com/in/riyan-amanda">...</a>
+ * {@code @linkedin} <a href="https://linkedin.com/in/riyan-amanda">...</a>
  * @since 06/12/2024, Friday
  **/
 
